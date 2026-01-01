@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Before running this create .env file from .env.example file and set the env variables to backend Url from [ai-chat-bot-backend](https://github.com/AiverReaver/ai-chat-bot-frontend)
+
 ## Getting Started
 
 First, run the development server:
